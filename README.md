@@ -1,2 +1,6 @@
 # simple_notes_app
-Simple note taking app with HTML and JS
+This is a lightweight note taking application designed for keeping track of ideas, tasks, and anything else you need to remember.
+
+Features
+Create, edit, and delete notes.
+Organize notes with clear titles.
