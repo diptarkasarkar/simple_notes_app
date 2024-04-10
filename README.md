@@ -4,3 +4,6 @@ This is a lightweight note taking application designed for keeping track of idea
 Features
 Create, edit, and delete notes.
 Organize notes with clear titles.
+
+
+Website: https://diptarkasarkar.github.io/simple_notes_app/
